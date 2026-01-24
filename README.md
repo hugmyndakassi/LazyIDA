@@ -1,6 +1,15 @@
 # LazyIDA
 Make your IDA Lazy!
 
+> [!NOTE]
+>
+> This project was written casually 10 years ago when I was doing CTF challenges. As IDA Pro has evolved, many features are now outdated or built-in:
+> - Remove return type: Built-in since IDA Pro 7.5+
+> - Dump feature: Can be replaced with IDA's built-in `Shift-E`
+> - Format string vulnerability scan: Since Hex-Rays decompiler now supports most common architectures, this feature should be reimplemented using Hex-Rays API for better results
+>
+> Consider using and contributing to [HappyIDA](https://github.com/patois/HappyIDA), which has a better code architecture for adding new features.
+
 ## Installation
 
 ### Method 1: Using hcli (Recommended)
