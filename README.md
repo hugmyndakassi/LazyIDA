@@ -8,7 +8,7 @@ Make your IDA Lazy!
 > - Dump feature: Can be replaced with IDA's built-in `Shift-E`
 > - Format string vulnerability scan: Since Hex-Rays decompiler now supports most common architectures, this feature should be reimplemented using Hex-Rays API for better results
 >
-> Consider using and contributing to [HappyIDA](https://github.com/patois/HappyIDA), which has a better code architecture for adding new features.
+> Consider using and contributing to [HappyIDA](https://github.com/HappyIDA/HappyIDA), which has a better code architecture for adding new features.
 
 ## Installation
 
