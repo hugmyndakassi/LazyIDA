@@ -20,7 +20,7 @@ hcli plugin install LazyIDA
 3. Restart IDA.
 
 # Features
-  - Remove function return type in Hex-Rays:
+  - Remove function return type in Hex-Rays (IDA 7.5+ has this feature built-in):  
 
 ![2016-06-12 11 05 29](https://cloud.githubusercontent.com/assets/5360374/15991889/2dad5d62-30f2-11e6-8d4b-e4efb0b73c77.png)
 
